@@ -74,6 +74,8 @@ Projeto web desenvolvido com Python e Flask para praticar desenvolvimento Back-e
 - Bancos de dados relacionais
 - Boas práticas de desenvolvimento de software
 
+?logo=lima
+
 ## 🎯 Objetivo profissional
 
 Busco uma oportunidade de estágio em desenvolvimento de software para aplicar meus conhecimentos, colaborar em projetos reais e continuar evoluindo profissionalmente.
