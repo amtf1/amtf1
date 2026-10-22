@@ -1,5 +1,7 @@
 # Olá, eu sou Anthony Figarella! 👋
 
+?logo=lima
+
 🎓 Estudante de Sistemas de Informação na Universidade do Estado do Amazonas (UEA).
 
 💻 Técnico em Informática pelo Instituto Federal do Amazonas (IFAM).
