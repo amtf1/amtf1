@@ -81,5 +81,5 @@ Projeto web desenvolvido com Python e Flask para praticar desenvolvimento Back-e
 Busco uma oportunidade de estágio em desenvolvimento de software para aplicar meus conhecimentos, colaborar em projetos reais e continuar evoluindo profissionalmente.
 
 ## 📫 Contato
-
-[LinkedIn](https://www.linkedin.com/in/anthony-figarella-5a255b32b/) · [GitHub](https://github.com/amtf1)
+[![GitHub](https://custom-icon-badges.demolab.com/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/amtf1)
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anthony-figarella-5a255b32b/)
